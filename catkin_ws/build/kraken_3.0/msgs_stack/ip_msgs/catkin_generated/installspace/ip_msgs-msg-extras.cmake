@@ -1,0 +1,2 @@
+set(ip_msgs_MESSAGE_FILES "msg/buoyAction.msg;msg/buoyActionGoal.msg;msg/buoyActionResult.msg;msg/buoyActionFeedback.msg;msg/buoyGoal.msg;msg/buoyResult.msg;msg/buoyFeedback.msg;msg/markerAction.msg;msg/markerActionGoal.msg;msg/markerActionResult.msg;msg/markerActionFeedback.msg;msg/markerGoal.msg;msg/markerResult.msg;msg/markerFeedback.msg;msg/vgateAction.msg;msg/vgateActionGoal.msg;msg/vgateActionResult.msg;msg/vgateActionFeedback.msg;msg/vgateGoal.msg;msg/vgateResult.msg;msg/vgateFeedback.msg")
+set(ip_msgs_SERVICE_FILES "")

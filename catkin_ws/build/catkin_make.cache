@@ -1,0 +1,2 @@
+kraken_3.0/msgs_stack/ip_msgs:kraken_3.0/msgs_stack/kraken_msgs:kraken_3.0/msgs_stack/msgs_stack:kraken_3.0/resources
+-DCATKIN_DEVEL_PREFIX=/home/dyutimoy/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dyutimoy/catkin_ws/install -G Unix Makefiles

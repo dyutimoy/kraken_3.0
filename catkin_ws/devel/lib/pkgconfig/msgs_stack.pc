@@ -1,0 +1,8 @@
+prefix=/home/dyutimoy/catkin_ws/devel
+
+Name: msgs_stack
+Description: Description of msgs_stack
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dyutimoy/catkin_ws/devel/lib 
+Requires: 

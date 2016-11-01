@@ -1,0 +1,2 @@
+set(kraken_msgs_MESSAGE_FILES "msg/absoluteRPY.msg;msg/battery.msg;msg/depthData.msg;msg/dvlData.msg;msg/forceData4Thruster.msg;msg/forceData6Thruster.msg;msg/imuData.msg;msg/ipControllererror.msg;msg/krakenPose.msg;msg/magnetoTemp.msg;msg/positionData.msg;msg/powerManagment.msg;msg/seabotix.msg;msg/stateData.msg;msg/thrusterData4Thruster.msg;msg/thrusterData6Thruster.msg")
+set(kraken_msgs_SERVICE_FILES "")

@@ -1,0 +1,8 @@
+prefix=/home/dyutimoy/catkin_ws/devel
+
+Name: resources
+Description: Description of resources
+Version: 1.0.0
+Cflags: -I/home/dyutimoy/catkin_ws/src/kraken_3.0/resources/include
+Libs: -L/home/dyutimoy/catkin_ws/devel/lib -l$(PROJECT_NAME)
+Requires: roscpp rospy std_msgs

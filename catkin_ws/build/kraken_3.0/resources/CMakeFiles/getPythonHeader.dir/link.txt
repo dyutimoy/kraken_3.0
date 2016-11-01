@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/getPythonHeader.dir/src/getPythonHeader.cpp.o  -o /home/dyutimoy/catkin_ws/src/kraken_3.0/resources/bin/getPythonHeader -rdynamic 
